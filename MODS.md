@@ -22,7 +22,7 @@
 |20|||[Catwalks 4](https://www.curseforge.com/minecraft/mc-mods/catwalks-4) (Декор)|
 |21|||[Industrial Renewal](https://www.curseforge.com/minecraft/mc-mods/industrial-renewal) (Декор, механизмы)|
 |22|||[SCP: Foundation Requisites mod](https://www.curseforge.com/minecraft/mc-mods/scp-foundation-requisites) (Декорации для SCP и не только)|
-|23||||
+|23|||[Immersive Railroading](https://www.curseforge.com/minecraft/mc-mods/immersive-railroading) (Железные дороги и поезда)|
 |24||||
 |25||||
 |26||||
