@@ -18,7 +18,7 @@
 |16|||[CoralReef](https://www.curseforge.com/minecraft/mc-mods/coralreef) (Подводный декор)|
 |17|||[First Aid Retexture](https://www.curseforge.com/minecraft/texture-packs/first-aid-retexture)|
 |18|||[Tool Progression](https://www.curseforge.com/minecraft/mc-mods/tool-progression) (Прогрессия кирок)|
-|19|||[ArchitectureCraft - TridentMC Version](https://www.curseforge.com/minecraft/mc-mods/architecturecraft-tridev) (Топоый декор, наклонные поверхности)|
+|19|||[ArchitectureCraft - TridentMC Version](https://www.curseforge.com/minecraft/mc-mods/architecturecraft-tridev) (Топовый декор, наклонные поверхности)|
 |20|||[Catwalks 4](https://www.curseforge.com/minecraft/mc-mods/catwalks-4) (Декор)|
 |21|||[Industrial Renewal](https://www.curseforge.com/minecraft/mc-mods/industrial-renewal) (Декор, механизмы)|
 |22|||[SCP: Foundation Requisites mod](https://www.curseforge.com/minecraft/mc-mods/scp-foundation-requisites) (Декорации для SCP и не только)|
