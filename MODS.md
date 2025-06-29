@@ -1,4 +1,4 @@
-|# \| |  Libs $\qquad$  $\qquad$ $\qquad$ \|  | Main Mods $\qquad$ $\qquad$ $\qquad$ $\qquad$  $\qquad$  $\qquad$ $\qquad$ \|   | Mods to check $\qquad$ $\qquad$ $\qquad$ $\qquad$ $\qquad$ $\qquad$ \| |
+|#  |  Libs $\qquad$  $\qquad$ $\qquad$ \|  | Main Mods $\qquad$ $\qquad$ $\qquad$ $\qquad$  $\qquad$  $\qquad$ $\qquad$ \|   | Mods to check $\qquad$ $\qquad$ $\qquad$ $\qquad$ $\qquad$ $\qquad$ \| |
 |:-----------------------|:-----------------------|:-----------------------|:-----------------------|
 |1|||[Corpse Complex](https://www.curseforge.com/minecraft/mc-mods/corpse-complex) (Настройка эффектов после смерти)|
 |2|||[Apex Guns](https://www.curseforge.com/minecraft/mc-mods/apex-guns) (Оружуе)|
