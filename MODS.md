@@ -24,7 +24,7 @@
 |22|||[SCP: Foundation Requisites mod](https://www.curseforge.com/minecraft/mc-mods/scp-foundation-requisites) (Декорации для SCP и не только)|
 |23|||[Immersive Railroading](https://www.curseforge.com/minecraft/mc-mods/immersive-railroading) (Железные дороги и поезда)|
 |24|||[Engineer's Decor](https://www.curseforge.com/minecraft/mc-mods/engineers-decor)|
-|25||||
+|25|||[Magneticraft](https://www.curseforge.com/minecraft/mc-mods/magneticraft) (Индустриальный мод)|
 |26||||
 |27||||
 |28||||
