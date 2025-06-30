@@ -12,7 +12,7 @@
 |10|||[Locks](https://www.curseforge.com/minecraft/mc-mods/locks) (Замки для сундуков и отмычки)|
 |11|||[Rustic](https://www.curseforge.com/minecraft/mc-mods/rustic) (Декор+)|
 |12|||[Project: Vibrant Journeys](https://www.curseforge.com/minecraft/mc-mods/project-vibrant-journeys) (Улучшение визуала природы)|
-|13|||[Аддоны на Паразитов](https://www.curseforge.com/minecraft/search?page=1&pageSize=20&sortBy=relevancy&search=Scape+and+Run%3A+Parasites)|
+|13|||[Аддоны на Паразитов](https://www.curseforge.com/minecraft/search?page=1&pageSize=20&sortBy=relevancy&search=Scape+and+Run%3A+Parasites), ([Scape and Run: Parasites Resource Pack](https://www.curseforge.com/minecraft/texture-packs/scape-and-run-parasites-resource-pack), [Scape and Run: Parasites Deep Sea Danger](https://www.curseforge.com/minecraft/mc-mods/scape-and-run-parasites-deep-sea-danger), [Scape and Run: Dimension](https://www.curseforge.com/minecraft/mc-mods/scape-and-run-parasite-dimension), [Scape and Run: Parasites Extra](https://www.curseforge.com/minecraft/mc-mods/scape-and-run-parasites-extra), [Scape and Run: Parasites Meteorite](https://www.curseforge.com/minecraft/mc-mods/scape-and-run-parasites-meteorite))|
 |14|||[Vic's Modern Warfare Mod](https://www.curseforge.com/minecraft/mc-mods/vics-modern-warfare-mod) (Оружие)|
 |15|||[Lindqvist](https://ru-minecraft.ru/mody-minecraft/79308-lindqvist.html) (Танки)|
 |16|||[CoralReef](https://www.curseforge.com/minecraft/mc-mods/coralreef) (Подводный декор)|
@@ -28,7 +28,7 @@
 |26|||[Modular Machinery](https://www.curseforge.com/minecraft/mc-mods/modular-machinery) (Кастомные мультиблочные механизмы (Возможно заимствовать код))|
 |27|||[Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism), [Mekanism Tools](https://www.curseforge.com/minecraft/mc-mods/mekanism-tools), [Mekanism Generators](https://www.curseforge.com/minecraft/mc-mods/mekanism-generators)|
 |28|||[GW Mods  Deepslate](https://www.curseforge.com/minecraft/mc-mods/glymworld-deepslate) (Глубинный сланец из 1.17)|
-|29||||
+|29|||[Oceanic Expanse](https://www.curseforge.com/minecraft/mc-mods/oceanic-expanse) (Океан из 1.13)|
 |30||||
 |31||||
 |32||||
