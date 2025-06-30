@@ -27,7 +27,7 @@
 |25|||[Magneticraft](https://www.curseforge.com/minecraft/mc-mods/magneticraft) (Индустриальный мод)|
 |26|||[Modular Machinery](https://www.curseforge.com/minecraft/mc-mods/modular-machinery) (Кастомные мультиблочные механизмы (Возможно заимствовать код))|
 |27|||[Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism), [Mekanism Tools](https://www.curseforge.com/minecraft/mc-mods/mekanism-tools), [Mekanism Generators](https://www.curseforge.com/minecraft/mc-mods/mekanism-generators)|
-|28||||
+|28|||[GW Mods | Deepslate](https://www.curseforge.com/minecraft/mc-mods/glymworld-deepslate) (Глубинный сланец из 1.17)|
 |29||||
 |30||||
 |31||||
