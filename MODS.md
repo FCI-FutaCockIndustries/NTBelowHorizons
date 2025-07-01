@@ -29,7 +29,7 @@
 |27|||[Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism), [Mekanism Tools](https://www.curseforge.com/minecraft/mc-mods/mekanism-tools), [Mekanism Generators](https://www.curseforge.com/minecraft/mc-mods/mekanism-generators)|
 |28|||[GW Mods  Deepslate](https://www.curseforge.com/minecraft/mc-mods/glymworld-deepslate) (Глубинный сланец из 1.17)|
 |29|||[Oceanic Expanse](https://www.curseforge.com/minecraft/mc-mods/oceanic-expanse) (Океан из 1.13)|
-|30||||
+|30|||[Arthropod Phobia Expansions + Horror Bosses (Spiders, Arachnophobia)](https://www.curseforge.com/minecraft/mc-mods/arphex/gallery) (Нет на 1.12, нужет бэкпорт)|
 |31||||
 |32||||
 |33||||
