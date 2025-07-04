@@ -1,6 +1,6 @@
-|#  |  Libs $\qquad$  $\qquad$ $\qquad$   | Main Mods $\qquad$ $\qquad$ $\qquad$ $\qquad$  $\qquad$  $\qquad$ $\qquad$    | Mods to check $\qquad$ $\qquad$ $\qquad$ $\qquad$ $\qquad$ $\qquad$  |
+|#  |  Libs $\hspace{4cm}$ | Main Mods $\hspace{9cm}$ | Mods to check $\hspace{9cm}$ |
 |:-----------------------|:-----------------------|:-----------------------|:-----------------------|
-|1|||[Corpse Complex](https://www.curseforge.com/minecraft/mc-mods/corpse-complex) (Настройка эффектов после смерти)|
+|1||[Hbm's Nuclear Tech - Extended Edition](https://www.curseforge.com/minecraft/mc-mods/hbms-nuclear-tech-mod-extended-edition)|[Corpse Complex](https://www.curseforge.com/minecraft/mc-mods/corpse-complex) (Настройка эффектов после смерти)|
 |2|||[Apex Guns](https://www.curseforge.com/minecraft/mc-mods/apex-guns) (Оружуе)|
 |3|||[Ice and Fire](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons) (Dregora) (Драконы)|
 |4|||[OppenMiner](https://www.youtube.com/@OppenMinerDev/videos) (Взрывы, бомбы)|
@@ -30,7 +30,7 @@
 |28|||[GW Mods  Deepslate](https://www.curseforge.com/minecraft/mc-mods/glymworld-deepslate) (Глубинный сланец из 1.17)|
 |29|||[Oceanic Expanse](https://www.curseforge.com/minecraft/mc-mods/oceanic-expanse) (Океан из 1.13)(Обнаружены проблемы с совместимостью)|
 |30|||[Arthropod Phobia Expansions + Horror Bosses (Spiders, Arachnophobia)](https://www.curseforge.com/minecraft/mc-mods/arphex/gallery) (Нет на 1.12, нужет бэкпорт)|
-|31||||
+|31|||[Rebirth of the Mobs](https://www.curseforge.com/minecraft/mc-mods/rebirth-of-the-mobs)|
 |32||||
 |33||||
 |34||||
