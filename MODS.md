@@ -31,7 +31,7 @@
 |29|||[Oceanic Expanse](https://www.curseforge.com/minecraft/mc-mods/oceanic-expanse) (Океан из 1.13)(Обнаружены проблемы с совместимостью)|
 |30|||[Arthropod Phobia Expansions + Horror Bosses (Spiders, Arachnophobia)](https://www.curseforge.com/minecraft/mc-mods/arphex/gallery) (Нет на 1.12, нужет бэкпорт)|
 |31|||[Rebirth of the Mobs](https://www.curseforge.com/minecraft/mc-mods/rebirth-of-the-mobs)|
-|32||||
+|32|||[Engineer's Doors](https://www.curseforge.com/minecraft/mc-mods/engineers-doors) (Декор дя имёрсива)|
 |33||||
 |34||||
 |35||||
