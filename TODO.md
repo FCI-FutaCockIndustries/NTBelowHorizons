@@ -38,3 +38,4 @@
 6. Carpenter`s Slope update to 1.12.2
 7. Rockhounding mod: Chemistry enhance and configure
 8. Arthropod Phobia Expansions + Horror Bosses (Spiders, Arachnophobia) (Мод на ебейших гигантских насекомые) (Нет на 1.12, нужен обязательный бэкпорт(Только мобы и возможно их дропы))
+9. Сделать порт полноценной версии мода **HBM's NTM** с 1.7.10 на 1.12.2 
