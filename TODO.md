@@ -37,7 +37,8 @@
 3. Yes Steve Model 1.16.5 $\to$ 1.12.2
 4. Change models for Yes Steve Model and add anime NPC
 5. Delete all structures from HBM's NTM Extended edition
-6. Carpenter`s Slope update to 1.12.2
+6. Carpenter`s Slope update to 1.12.2 (No need, ArchitectureCraft)
 7. Rockhounding mod: Chemistry enhance and configure
-8. Arthropod Phobia Expansions + Horror Bosses (Spiders, Arachnophobia) (Мод на ебейших гигантских насекомые) (Нет на 1.12, нужен обязательный бэкпорт(Только мобы и возможно их дропы))
-9. Сделать порт полноценной версии мода **HBM's NTM** с 1.7.10 на 1.12.2 
+8. Arthropod Phobia Expansions + Horror Bosses (Spiders, Arachnophobia) (Мод на ебейших гигантских насекомых) (Нет на 1.12, нужен обязательный бэкпорт(Только мобы и возможно их дропы))
+9. Сделать порт полноценной версии мода **HBM's NTM** с 1.7.10 на 1.12.2
+10. NTM space, является форком для NTM, нужно сделать аддон к основному моду вместо форка перенеся весь новый контен, этим аддоном можно будет больше чем полносттю заменить Galacticraft (можно будет добавить к контенту из space какие либо полезные вещи из Galacticraft, если будет необходимость)
