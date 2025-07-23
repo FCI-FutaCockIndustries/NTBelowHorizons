@@ -36,6 +36,7 @@
 1. Пофиксить несовместимость шейдеров **IterationT** и **Vic's Modern Warfare Mod**
 2. Пофиксить несовместимость шейдеров **IterationT** и ядерных взрывов из **HBM's NTM**
 3. Маленькие кактусы и Biomes o plenty  дамажат голово хотя высотой с полублок
+4. Oceanic Expanse - проблемы с совместимостью
 
 ### ToDo list for mods
 
