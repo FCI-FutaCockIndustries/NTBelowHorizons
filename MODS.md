@@ -32,7 +32,7 @@
 |30|||[Arthropod Phobia Expansions + Horror Bosses (Spiders, Arachnophobia)](https://www.curseforge.com/minecraft/mc-mods/arphex/gallery) (Нет на 1.12, нужет бэкпорт)|
 |31|||[Rebirth of the Mobs](https://www.curseforge.com/minecraft/mc-mods/rebirth-of-the-mobs)|
 |32|||[Engineer's Doors](https://www.curseforge.com/minecraft/mc-mods/engineers-doors) (Декор дя имёрсива)|
-|33||||
+|33|||[FarPlaneTwo](https://www.curseforge.com/minecraft/mc-mods/farplanetwo)  (Увеличенная дальность прорисовки как Distant Horizons)|
 |34||||
 |35||||
 |36||||
