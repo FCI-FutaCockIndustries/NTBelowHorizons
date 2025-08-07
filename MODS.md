@@ -15,7 +15,7 @@
 |13|[Dynamic Trees](https://www.curseforge.com/minecraft/mc-mods/dynamictrees) ([Dynamic Trees - Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/dtbop); [Dynamic Trees - Quark](https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-quark))|[Lindqvist](https://ru-minecraft.ru/mody-minecraft/79308-lindqvist.html) (?)|[MalisisDoors](https://www.curseforge.com/minecraft/mc-mods/malisisdoors)||
 |14|[Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)|[First Aid Retexture](https://www.curseforge.com/minecraft/texture-packs/first-aid-retexture)|[Quark](https://www.curseforge.com/minecraft/mc-mods/quark)||
 |15||[Tool Progression](https://www.curseforge.com/minecraft/mc-mods/tool-progression)|[Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)|
-|16||(Mob settings) [Rebirth of the Mobs](https://www.curseforge.com/minecraft/mc-mods/rebirth-of-the-mobs/comments); [Mob Controller](https://www.curseforge.com/minecraft/mc-mods/mob-controller); [Special AI](https://www.curseforge.com/minecraft/mc-mods/special-ai);[Epic Siege Mod](https://www.curseforge.com/minecraft/mc-mods/epic-siege-mod); [Champions](https://www.curseforge.com/minecraft/mc-mods/champions); [Zombie Horse Spawn](https://www.curseforge.com/minecraft/mc-mods/zombie-horse-spawn); [Mob Sunscreen](https://www.curseforge.com/minecraft/mc-mods/mob-sunscreen); [Improved Mobs](https://www.curseforge.com/minecraft/mc-mods/improved-mobs); [Infernal Mobs](https://www.curseforge.com/minecraft/mc-mods/atomicstrykers-infernal-mobs); [The Hordes](https://www.curseforge.com/minecraft/mc-mods/the-hordes); [In Control!](https://www.curseforge.com/minecraft/mc-mods/in-control); [Scaling Health](https://www.curseforge.com/minecraft/mc-mods/scaling-health); [Skeleton Horse Spawn](https://www.curseforge.com/minecraft/mc-mods/skeleton-horse-spawn); [Zombie Awareness](https://www.curseforge.com/minecraft/mc-mods/zombie-awareness); [Rough Mobs Revamped](https://www.curseforge.com/minecraft/mc-mods/rough-mobs-revamped)|||
+|16||(Mob settings) [Rebirth of the Mobs](https://www.curseforge.com/minecraft/mc-mods/rebirth-of-the-mobs/comments); [Mob Controller](https://www.curseforge.com/minecraft/mc-mods/mob-controller); [Special AI](https://www.curseforge.com/minecraft/mc-mods/special-ai);[Epic Siege Mod](https://www.curseforge.com/minecraft/mc-mods/epic-siege-mod); [Champions](https://www.curseforge.com/minecraft/mc-mods/champions); [Zombie Horse Spawn](https://www.curseforge.com/minecraft/mc-mods/zombie-horse-spawn); [Mob Sunscreen](https://www.curseforge.com/minecraft/mc-mods/mob-sunscreen); [Improved Mobs](https://www.curseforge.com/minecraft/mc-mods/improved-mobs); [Infernal Mobs](https://www.curseforge.com/minecraft/mc-mods/atomicstrykers-infernal-mobs); [The Hordes](https://www.curseforge.com/minecraft/mc-mods/the-hordes); [In Control!](https://www.curseforge.com/minecraft/mc-mods/in-control); [Scaling Health](https://www.curseforge.com/minecraft/mc-mods/scaling-health); [Skeleton Horse Spawn](https://www.curseforge.com/minecraft/mc-mods/skeleton-horse-spawn); [Zombie Awareness](https://www.curseforge.com/minecraft/mc-mods/zombie-awareness); [Rough Mobs Revamped](https://www.curseforge.com/minecraft/mc-mods/rough-mobs-revamped)|[The Betweenlands](https://www.curseforge.com/minecraft/mc-mods/angry-pixel-the-betweenlands-mod/gallery)||
 |17||[First Aid](https://www.curseforge.com/minecraft/mc-mods/first-aid); [AttributeFix](https://www.curseforge.com/minecraft/mc-mods/attributefix);|||
 |18||[AmbientSounds 6](https://www.curseforge.com/minecraft/mc-mods/ambientsounds) (?)|||
 |19||[Techguns](https://www.curseforge.com/minecraft/mc-mods/techguns)|||
@@ -78,10 +78,10 @@
 |76||[CraftTweaker](https://www.curseforge.com/minecraft/mc-mods/crafttweaker); [MineTweaker RecipeMaker](https://www.curseforge.com/minecraft/mc-mods/minetweaker-recipemaker)||
 |77||[Scape and Run: Monstress](https://www.curseforge.com/minecraft/mc-mods/scape-and-run-monstress)||
 |78||[Sound Filters](https://www.curseforge.com/minecraft/mc-mods/sound-filters)||
-|79||||
-|80||||
-|81||||
-|82||||
+|79||[Reanimated Blue](https://www.curseforge.com/minecraft/texture-packs/reanimated-blue)||
+|80||[Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity)||
+|81||[Explosion Overhaul](https://www.curseforge.com/minecraft/mc-mods/explosion-overhaul-a-new-level-of-destruction)||
+|82||[Dead Guy's Additional Features](https://www.curseforge.com/minecraft/mc-mods/slug) (?)||
 |83||||
 |84||||
 |85||||
@@ -100,3 +100,4 @@
 |98||||
 |99||||
 |100||||
+
