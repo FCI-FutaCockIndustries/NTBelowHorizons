@@ -51,7 +51,7 @@
 |49||[Particle Culling](https://www.curseforge.com/minecraft/mc-mods/particle-culling)||
 |50||[Item Scroller](https://modrinth.com/mod/item-scroller)||
 |51||[KleeSlabs](https://www.curseforge.com/minecraft/mc-mods/kleeslabs)||
-|52||[Hwyla/Waila](https://www.curseforge.com/minecraft/mc-mods/hwyla) ([Jade](https://www.curseforge.com/minecraft/mc-mods/jade)); [**The One Probe**](https://www.curseforge.com/minecraft/mc-mods/the-one-probe) ([TOP Addons](https://www.curseforge.com/minecraft/mc-mods/top-addons); [TOP Extras](https://www.curseforge.com/minecraft/mc-mods/top-extras))||
+|52||[Hwyla/Waila](https://www.curseforge.com/minecraft/mc-mods/hwyla) ([Jade](https://www.curseforge.com/minecraft/mc-mods/jade); [Waila Harvestability](https://www.curseforge.com/minecraft/mc-mods/waila-harvestability)); [**The One Probe**](https://www.curseforge.com/minecraft/mc-mods/the-one-probe) ([TOP Addons](https://www.curseforge.com/minecraft/mc-mods/top-addons); [TOP Extras](https://www.curseforge.com/minecraft/mc-mods/top-extras))||
 |53||[SwingThroughGrass](https://www.curseforge.com/minecraft/mc-mods/swingthroughgrass)||
 |54||[LootBags](https://www.curseforge.com/minecraft/mc-mods/lootbags) (?)||
 |55||[Screenshot Viewer](https://www.curseforge.com/minecraft/mc-mods/screenshot-viewer)||
@@ -100,6 +100,7 @@
 |98||||
 |99||||
 |100||||
+
 
 
 
