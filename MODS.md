@@ -1,7 +1,7 @@
 |#  |  Core Mods $\hspace{9cm}$ | Mods $\hspace{9cm}$ | Decor $\hspace{9cm}$ | Lib $\hspace{9cm}$ |
 |:-----------------------|:-----------------------|:-----------------------|:-----------------------|:-----------------------|
 |1|[Hbm's Nuclear Tech](https://github.com/HbmMods/Hbm-s-Nuclear-Tech-GIT)|[Arthropod Phobia Expansions + Horror Bosses (Spiders, Arachnophobia)](https://www.curseforge.com/minecraft/mc-mods/arphex/gallery)|[ArchitectureCraft - TridentMC Version](https://www.curseforge.com/minecraft/mc-mods/architecturecraft-tridev)|[MixinBooter](https://www.curseforge.com/minecraft/mc-mods/mixin-booter)|
-|2|[HBM's Nuclear Tech Mod Community Edition](https://github.com/MisterNorwood/Hbm-s-Nuclear-Tech-CE)|[Ice and Fire](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons) (Dregora)|[Rustic](https://www.curseforge.com/minecraft/mc-mods/rustic) (not only decor)||
+|2|[HBM's Nuclear Tech Mod Community Edition](https://github.com/MisterNorwood/Hbm-s-Nuclear-Tech-CE)|[Ice and Fire](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons) (Dregora)|[Rustic](https://www.curseforge.com/minecraft/mc-mods/rustic) (not only decor)|[Mathlib](https://www.curseforge.com/minecraft/mc-mods/mathlibbymahiron47)|
 |3|[NTM: Space](https://www.curseforge.com/minecraft/mc-mods/ntm-space)|[Mo' Creatures Extended](https://www.curseforge.com/minecraft/mc-mods/mo-creatures-extended)|[Project: Vibrant Journeys](https://www.curseforge.com/minecraft/mc-mods/project-vibrant-journeys)||
 |4|[Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering) ([Immersive Cables](https://www.curseforge.com/minecraft/mc-mods/immersive-cables); [Immersive Intelligence](https://www.curseforge.com/minecraft/mc-mods/immersive-intelligence); [Immersive Petroleum](https://www.curseforge.com/minecraft/mc-mods/immersive-petroleum); [Immersive Posts](https://www.curseforge.com/minecraft/mc-mods/immersiveposts); [Immersive Railroading](https://www.curseforge.com/minecraft/mc-mods/immersive-railroading); [Immersive Technology](https://www.curseforge.com/minecraft/mc-mods/mct-immersive-technology))|[Special Mobs](https://www.curseforge.com/minecraft/mc-mods/special-mobs)|[CoralReef](https://www.curseforge.com/minecraft/mc-mods/coralreef)||
 |5|[Create + Addons](https://www.curseforge.com/minecraft/mc-mods/create)|[Vic's Modern Warfare Mod](https://www.curseforge.com/minecraft/mc-mods/vics-modern-warfare-mod)|[Catwalks 4](https://www.curseforge.com/minecraft/mc-mods/catwalks-4)||
@@ -100,5 +100,6 @@
 |98||||
 |99||||
 |100||||
+
 
 
