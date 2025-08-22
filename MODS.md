@@ -24,7 +24,7 @@
 |23||[Hwyla/Waila](https://www.curseforge.com/minecraft/mc-mods/hwyla) ([Jade](https://www.curseforge.com/minecraft/mc-mods/jade); [Waila Harvestability](https://www.curseforge.com/minecraft/mc-mods/waila-harvestability)); [**The One Probe**](https://www.curseforge.com/minecraft/mc-mods/the-one-probe) ([TOP Addons](https://www.curseforge.com/minecraft/mc-mods/top-addons); [TOP Extras](https://www.curseforge.com/minecraft/mc-mods/top-extras))||
 |24||[Collision Damage](https://www.curseforge.com/minecraft/mc-mods/collision-damage)||
 |25||[Inventory Tweaks](https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks)||
-|26||[Mutant Beasts](https://www.curseforge.com/minecraft/mc-mods/mutant-beasts)||
+|26||[Mutant Beasts](https://www.curseforge.com/minecraft/mc-mods/mutant-beasts) ([Mutant More](https://www.curseforge.com/minecraft/mc-mods/new-mutant-more))||
 |27||[Chunk-Pregenerator](https://www.curseforge.com/minecraft/mc-mods/chunkpregenerator) (?)||
 |28||[FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench)||
 |29||[Submerged Explosions](https://modrinth.com/mod/submerged-explosions)||
@@ -99,6 +99,7 @@
 |98||||
 |99||||
 |100||||
+
 
 
 
