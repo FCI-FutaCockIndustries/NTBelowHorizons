@@ -54,7 +54,7 @@
 |52||[Explosion Overhaul](https://www.curseforge.com/minecraft/mc-mods/explosion-overhaul-a-new-level-of-destruction) (Forge); [Gunfire Overhaul](https://www.curseforge.com/minecraft/mc-mods/gunfire-overhaul-echoes-of-the-battlefield) (Forge)|||
 |53||[CraftTweaker](https://www.curseforge.com/minecraft/mc-mods/crafttweaker) ([CreateTweaker](https://www.curseforge.com/minecraft/mc-mods/createtweaker))|||
 |54||[Weather, Storms & Tornadoes](https://www.curseforge.com/minecraft/mc-mods/weather-storms-tornadoes) (NeoForge)|||
-|55||[Simple Clouds](https://www.curseforge.com/minecraft/mc-mods/simple-clouds) (NeoForge)|||
+|55||[Simple Clouds](https://www.curseforge.com/minecraft/mc-mods/simple-clouds) (NeoForge); [Better Clouds](https://modrinth.com/mod/better-clouds)|||
 |56||[Thin Air](https://www.curseforge.com/minecraft/mc-mods/thin-air)|||
 |57||([Durability Tooltip](https://www.curseforge.com/minecraft/mc-mods/durability-tooltip); [Giselbaer's Durability Viewer](https://www.curseforge.com/minecraft/mc-mods/giselbaers-durability-viewer)) (?)|||
 |58||[Nyf's Spiders](https://www.curseforge.com/minecraft/mc-mods/nyfs-spiders)|||
@@ -103,7 +103,7 @@
 |101||[Visual Overhaul](https://modrinth.com/mod/visual-overhaul)|||
 |102||[Astrocraft](https://www.curseforge.com/minecraft/mc-mods/astrocraft-mod) (need adoptation)|||
 |103||[ImmersiveMC](https://www.curseforge.com/minecraft/mc-mods/immersivemc) (?)|||
-|104|||||
+|104||[Rare Ice](https://www.curseforge.com/minecraft/mc-mods/rare-ice) (?)|||
 |105|||||
 |106|||||
 |107|||||
